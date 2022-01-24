@@ -11,8 +11,9 @@
 </h3>
 
 <h1 align="center">Demonstração</h1>
-
-![Demonstração do site](/Demo.png)
+<p align="center">
+    <img src="./Demo.png">
+</p>
 
 ## Technologies
 
